@@ -10,7 +10,7 @@ import java.util.List;
 
 public class Room {
 
-	//fields
+	// fields
 	private int smallBeds;
 	private int bigBeds;
 	private boolean isVacant;
